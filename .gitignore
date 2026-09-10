@@ -1,0 +1,16 @@
+# Local textbooks and rendered source pages
+*.pdf
+/tmp/
+
+# Editor and agent configuration
+/.obsidian/
+/.agents/
+/.codex/
+
+# System files and credentials
+.DS_Store
+._*
+.env
+.env.*
+*.pem
+*.key
